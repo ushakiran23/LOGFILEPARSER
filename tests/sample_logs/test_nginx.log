@@ -1,0 +1,5 @@
+127.0.0.1 - - [10/Oct/2000:13:55:36 -0700] "GET /apache_pb.gif HTTP/1.0" 200 2326
+192.168.1.1 - admin [10/Oct/2000:14:02:00 -0700] "POST /login HTTP/1.1" 401 128 "http://example.com/login" "Mozilla/5.0"
+10.0.0.5 - - [10/Oct/2000:14:05:00 -0700] "GET /index.html HTTP/1.1" 200 1024 "-" "curl/7.68.0"
+127.0.0.1 - - [10/Oct/2000:14:10:00 -0700] "GET /favicon.ico HTTP/1.1" 404 150 "-" "Mozilla/5.0"
+192.168.1.1 - admin [10/Oct/2000:14:15:00 -0700] "POST /login HTTP/1.1" 200 128 "http://example.com/login" "Mozilla/5.0"
