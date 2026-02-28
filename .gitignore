@@ -1,0 +1,45 @@
+# --------------------
+# Python cache files
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------
+# Virtual environment
+# --------------------
+venv/
+env/
+.venv/
+
+# --------------------
+# OS / Editor files
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+
+# --------------------
+# Pytest cache
+# --------------------
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --------------------
+# Streamlit
+# --------------------
+.streamlit/
+
+# --------------------
+# Environment variables
+# --------------------
+.env
+
+# --------------------
+# Build / dist
+# --------------------
+build/
+dist/
+*.egg-info/
